@@ -1,13 +1,1 @@
-# alulu
-
-hhalulllu
-
-```c++
-int lulu = 0;
-string alu = 'lala';
-```
-
-
-$$
-\alpha\times\beta=\sigma
-$$
+<a href="https://www.codecogs.com/eqnedit.php?latex=\alpha\times\beta=\sigma" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\alpha\times\beta=\sigma" title="\alpha\times\beta=\sigma" /></a>
