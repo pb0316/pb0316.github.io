@@ -1,1 +1,1 @@
-<a href="https://www.codecogs.com/eqnedit.php?latex=\alpha\times\beta=\sigma" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\alpha\times\beta=\sigma" title="\alpha\times\beta=\sigma" /></a>
+<a href="https://www.codecogs.com/eqnedit.php?latex=\alpha\times\beta=\sigma" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\alpha\times\beta=\sigma" title="\alpha\times\beta=\sigma" /></a>
