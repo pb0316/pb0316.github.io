@@ -21,7 +21,6 @@
     {% unless page.hide_hero %}
         {% include hero.html %}
     {% endunless %}
-    {% include callouts.html %}
     <section class="section">
         <div class="container">
             <div class="columns is-multiline">
@@ -42,11 +41,6 @@
                     {% include gallery.html %}
                     {{ content }}
                 </div>
-                {% if site.posts and page.show_sidebar %}
-                <div class="column is-4-desktop is-4-tablet">
-                    {% include latest-posts.html %}
-                </div>
-                {% endif %}
             </div>
         </div>
     </section>

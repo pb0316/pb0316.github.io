@@ -1,10 +1,10 @@
 # Site Settings
 lang: en
-title: Bulma Clean Theme
-tagline: Bulma Clean Theme
-email: your-email@domain.com
+title: Bo Pan
+tagline: Bo Pan
+email: bo.pan@emory.edu
 description: >
-  The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites
+  Incoming PhD student at Emory CS.
 baseurl: ""
 url: "https://www.csrhymes.com"
 permalink: pretty
