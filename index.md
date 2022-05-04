@@ -1,6 +1,6 @@
 ---
 title: Bo Pan
-subtitle: Incoming PhD student at Emory CS
+subtitle: Exploring the world recently.
 layout: page
 callouts: home_callouts
 show_sidebar: true
