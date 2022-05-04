@@ -1,6 +1,6 @@
 # Site Settings
 lang: en
-title: Bo Pan
+title: Bo Pan's Website
 tagline: Bo Pan
 email: bo.pan@emory.edu
 description: >
@@ -9,6 +9,7 @@ baseurl: ""
 url: "https://www.csrhymes.com"
 permalink: pretty
 #favicon: /path/to/favicon.png
+favicon: icon.png
 gh_sponsor: chrisrhymes
 #hide_share_buttons: true
 #theme_color: '#eeeeee'
