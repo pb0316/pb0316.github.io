@@ -14,6 +14,11 @@ My research interests lies in Graph Data Mining, ML and AI, and their applicatio
 
 ### Contact
 Email: <bo.pan@emory.edu>   
-Google Scholar: <https://scholar.google.com/citations?hl=en&user=UacLGeoAAAAJ>
+Google Scholar: <https://scholar.google.com/citations?hl=en&user=UacLGeoAAAAJ>  
 Linkedin: <https://www.linkedin.com/in/bo-pan-65680921b/>  
 Address: Room 11-403, East Main Building, Tsinghua University, Beijing, P.R.China
+
+### Publications
+Controllable Data Generation by Deep Learning: A Review
+Shiyu Wang\*, Yuanqi Du\*, Xiaojie Guo, **B Pan**, Liang Zhao
+arXiv preprint arXiv:2207.09542
