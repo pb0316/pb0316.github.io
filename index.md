@@ -19,6 +19,6 @@ Linkedin: <https://www.linkedin.com/in/bo-pan-65680921b/>
 Address: Room 11-403, East Main Building, Tsinghua University, Beijing, P.R.China
 
 ### Publications
-Controllable Data Generation by Deep Learning: A Review
-Shiyu Wang\*, Yuanqi Du\*, Xiaojie Guo, **B Pan**, Liang Zhao
-arXiv preprint arXiv:2207.09542
+**Controllable Data Generation by Deep Learning: A Review**   
+Shiyu Wang\*, Yuanqi Du\*, Xiaojie Guo, **Bo Pan**, Liang Zhao   
+arXiv preprint arXiv:2207.09542   
