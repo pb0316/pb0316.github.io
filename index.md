@@ -9,7 +9,7 @@ show_sidebar: true
 ### Biography
 I am currently pursuing my PhD in the Department of Computer Science at Emory University, under the advisory of [Dr. Liang Zhao](https://cs.emory.edu/~lzhao41/index.htm). Prior to this, I earned my Bachelor of Engineering degree in Software Engineering from Tsinghua University in 2022. During my undergraduate studies, I had the opportunity to contribute as a Research Assistant to the Tsinghua (School of Software) Data Mining Group, supervised by Dr. Chunping Li. Before coming to Tsinghua University, I spent three lovely years at Tianjin Yaohua High School.
 
-My research interest lies in **deep generative models** and **graph neural networks**, specifically **controllable data generation** and **graph generation**, with their applications in **drug design**.
+My research interest lies in **deep generative models**, **graph deep learning**, and **controllable data generation**.
 
 
 ### Contact
