@@ -20,15 +20,16 @@ Address: Room N426 Math & Science Center, 400 Dowman Dr, Atlanta, GA 30307, Unit
 
 ### Publications
 
-**SurroCBM: Concept Bottleneck Surrogate Models for Generative Post-hoc Explanation**   
+**SurroCBM: Concept Bottleneck Surrogate Models for Generative Post-hoc Explanation** [(**PDF**)](https://arxiv.org/pdf/2310.07698.pdf)   
 Bo Pan, Zhenke Liu, Yifei Zhang, Liang Zhao  
 arXiv preprint arXiv:2310.07698  
 
 
 
-**Controllable Data Generation Via Iterative Data-Property Mutual Mappings**  
+**Controllable Data Generation Via Iterative Data-Property Mutual Mappings** [(**PDF**)](https://arxiv.org/pdf/2310.07683.pdf)  
 Bo Pan, Muran Qin, Shiyu Wang, Yifei Zhang, Liang Zhao  
 arXiv preprint arXiv:2310.07683  
+
 
 
 **MAGI: Multi-Annotated Explanation-Guided Learning**  
