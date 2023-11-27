@@ -20,13 +20,25 @@ Address: Room N426 Math & Science Center, 400 Dowman Dr, Atlanta, GA 30307, Unit
 
 ### News
 
-[Nov 2023] I serve as a Reviewer for CVPR 2024.<br>
+[Nov 2023] I serve as a reviewer for CVPR 2024.<br>
 
-[Oct 2023] I serve as a co-organizer for LLMs4Bio workshop at AAAI 2024.<br>
+[Oct 2023] I serve as a student co-organizer for [LLMs4Bio workshop](https://llms4science-community.github.io/aaai2024.html) at AAAI 2024.<br>
 
-[Jul 2023] I serve as a Reviewer for DLG-KDD 23.
+[Jul 2023] I serve as a reviewer for DLG-KDD 23.
 
 ### Publications
+
+**Visual Attention-Prompted Prediction and Learning** [(**PDF**)](https://arxiv.org/pdf/2310.07698.pdf)   
+Yifei Zhang, Siyi Gu, Bo Pan, Guangji Bai, Xiaofeng Yang, Liang Zhao  
+arXiv preprint arXiv:2310.08420  
+
+
+
+**XAI Benchmark for Visual Explanation** [(**PDF**)](https://arxiv.org/pdf/2310.07698.pdf)   
+Yifei Zhang, Siyi Gu, Bo Pan, Guangji Bai, Xiaofeng Yang, Liang Zhao  
+arXiv preprint arXiv:2310.07698  
+
+
 
 **SurroCBM: Concept Bottleneck Surrogate Models for Generative Post-hoc Explanation** [(**PDF**)](https://arxiv.org/pdf/2310.07698.pdf)   
 Bo Pan, Zhenke Liu, Yifei Zhang, Liang Zhao  
