@@ -18,6 +18,14 @@ Google Scholar: <https://scholar.google.com/citations?user=UacLGeoAAAAJ>
 Linkedin: <https://www.linkedin.com/in/bo-pan/>  
 Address: Room N426 Math & Science Center, 400 Dowman Dr, Atlanta, GA 30307, United States
 
+### News
+
+[Nov 2023] I serve as a Reviewer for CVPR 2024.<br>
+
+[Oct 2023] I serve as a co-organizer for LLMs4Bio workshop at AAAI 2024.<br>
+
+[Jul 2023] I serve as a Reviewer for DLG-KDD 23.
+
 ### Publications
 
 **SurroCBM: Concept Bottleneck Surrogate Models for Generative Post-hoc Explanation** [(**PDF**)](https://arxiv.org/pdf/2310.07698.pdf)   
