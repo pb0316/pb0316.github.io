@@ -28,15 +28,15 @@ Address: Room N426 Math & Science Center, 400 Dowman Dr, Atlanta, GA 30307, Unit
 
 ### Publications
 
-**Visual Attention-Prompted Prediction and Learning** [(**PDF**)](https://arxiv.org/pdf/2310.07698.pdf)   
+**Visual Attention-Prompted Prediction and Learning** [(**PDF**)](https://arxiv.org/pdf/2310.08420.pdf)   
 Yifei Zhang, Siyi Gu, Bo Pan, Guangji Bai, Xiaofeng Yang, Liang Zhao  
 arXiv preprint arXiv:2310.08420  
 
 
 
-**XAI Benchmark for Visual Explanation** [(**PDF**)](https://arxiv.org/pdf/2310.07698.pdf)   
+**XAI Benchmark for Visual Explanation** [(**PDF**)](https://arxiv.org/pdf/2310.08537.pdf)   
 Yifei Zhang, Siyi Gu, Bo Pan, Guangji Bai, Xiaofeng Yang, Liang Zhao  
-arXiv preprint arXiv:2310.07698  
+arXiv preprint arXiv:2310.08537  
 
 
 
