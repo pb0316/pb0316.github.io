@@ -11,11 +11,7 @@ I am currently pursuing my PhD in the Department of Computer Science at Emory Un
 
 My research interest lies in **deep generative models**, **graph deep learning**, **drug design** and **explainable AI**.
 
-
-### Contact
-Email: <bo.pan@emory.edu>   
-Google Scholar: <https://scholar.google.com/citations?user=UacLGeoAAAAJ>  
-Linkedin: <https://www.linkedin.com/in/bo-pan/>  
+[Email](bo.pan@emory.edu)   /   [Google Scholar](https://scholar.google.com/citations?user=UacLGeoAAAAJ)   /   [Linkedin](https://www.linkedin.com/in/bo-pan/)  
 Address: Room N426 Math & Science Center, 400 Dowman Dr, Atlanta, GA 30307, United States
 
 ### News
@@ -26,7 +22,7 @@ Address: Room N426 Math & Science Center, 400 Dowman Dr, Atlanta, GA 30307, Unit
 
 [Jul 2023] I serve as a reviewer for DLG-KDD 23.
 
-### Publications
+### Publications & Preprints
 
 **Visual Attention-Prompted Prediction and Learning** [(**PDF**)](https://arxiv.org/pdf/2310.08420.pdf)   
 Yifei Zhang, Siyi Gu, Bo Pan, Guangji Bai, Xiaofeng Yang, Liang Zhao  
