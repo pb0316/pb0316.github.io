@@ -11,7 +11,7 @@ I am currently pursuing my PhD in the Department of Computer Science at Emory Un
 
 My research interest lies in **deep generative models**, **graph deep learning**, **drug design** and **explainable AI**.
 
-[Email](mailto:bo.pan@emory.edu)   /   [Google Scholar](https://scholar.google.com/citations?user=UacLGeoAAAAJ)   /   [Linkedin](https://www.linkedin.com/in/bo-pan/)  
+**[Email](mailto:bo.pan@emory.edu)   /   [Google Scholar](https://scholar.google.com/citations?user=UacLGeoAAAAJ)   /   [Linkedin](https://www.linkedin.com/in/bo-pan/)**  
 
 ### News
 
