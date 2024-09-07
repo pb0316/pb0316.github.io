@@ -7,13 +7,15 @@ show_sidebar: true
 ---
 
 ### Biography
-I am currently pursuing my PhD in the Department of Computer Science at Emory University, under the advisory of [Dr. Liang Zhao](https://cs.emory.edu/~lzhao41/index.htm). Prior to this, I earned my Bachelor of Engineering degree in Software Engineering from Tsinghua University in 2022. During my undergraduate studies, I had the opportunity to contribute as a Research Assistant to the Tsinghua (School of Software) Data Mining Group, supervised by Dr. Chunping Li. 
+I am currently pursuing my PhD in the Department of Computer Science at Emory University, under the advisory of [Dr. Liang Zhao](https://cs.emory.edu/~lzhao41/index.htm). Prior to this, I earned my Bachelor degree in Software Engineering from Tsinghua University in 2022. During my undergraduate studies, I had the opportunity to work at the Data Mining Group at School of Software, Tsinghua University, supervised by Dr. Chunping Li. 
 
 My research interest mainly lies in Graph Learning, LLMs, and Generative AI.
 
 **[Email](mailto:bo.pan@emory.edu)   /   [Google Scholar](https://scholar.google.com/citations?user=UacLGeoAAAAJ)   /   [Linkedin](https://www.linkedin.com/in/bo-pan/)**  
 
 ### News
+
+[Aug 2024] I just finished my summer intern journey at Merck Research Laboratories. Many thanks to my fantastic mentors Dr. Peter Zhang and Dr. Kevin Spiekermann! <br>
 
 [Jul 2024] Our paper Distilling Large Language Models for Text-Attributed Graph Learning is accepted by CIKM'24!<br>
 
@@ -23,11 +25,11 @@ My research interest mainly lies in Graph Learning, LLMs, and Generative AI.
 
 [Nov 2023] I serve as a reviewer for CVPR 2024.<br>
 
-[Oct 2023] I serve as a student co-organizer for [LLMs4Bio workshop](https://llms4science-community.github.io/aaai2024.html) at AAAI 2024.<br>
+[Oct 2023] I serve as a co-organizer for [LLMs4Bio workshop](https://llms4science-community.github.io/aaai2024.html) at AAAI 2024.<br>
 
 [Jul 2023] I serve as a PC member for DLG-KDD 23.
 
-### Publications & Preprints
+### Selected Publications & Preprints
 
 **Distilling Large Language Models for Text-Attributed Graph Learning** [(**PDF**)](https://arxiv.org/pdf/2402.12022.pdf)   
 Bo Pan, Zheng Zhang, Yifei Zhang, Yuntong Hu, Liang Zhao  
