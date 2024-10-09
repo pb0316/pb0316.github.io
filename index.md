@@ -15,6 +15,8 @@ My research interest mainly lies in Graph Learning, LLMs, and Generative AI.
 
 ### News
 
+[Aug 2024] Our work on explaining Text-Attributed Graph learning models is available! Find it at [Preprint](https://pb0316.github.io/blog/TAG_XAI_preprint.pdf) <br>
+
 [Aug 2024] I just finished my summer intern journey at Merck Research Laboratories. Many thanks to my fantastic mentors Dr. Peter Zhang and Dr. Kevin Spiekermann! <br>
 
 [Jul 2024] Our paper Distilling Large Language Models for Text-Attributed Graph Learning is accepted by CIKM'24!<br>
@@ -30,6 +32,12 @@ My research interest mainly lies in Graph Learning, LLMs, and Generative AI.
 [Jul 2023] I serve as a PC member for DLG-KDD 23.
 
 ### Selected Publications & Preprints
+
+**TAGExplainer: Narrating Graph Explanations for Text-Attributed Graph Learning Models** [(**PDF**)](https://pb0316.github.io/blog/TAG_XAI_preprint.pdf)   
+Bo Pan, Zhen Xiong, Guanchen Wu, Zheng Zhang, Yifei Zhang, Liang Zhao  
+Preprint  
+
+
 
 **Distilling Large Language Models for Text-Attributed Graph Learning** [(**PDF**)](https://arxiv.org/pdf/2402.12022.pdf)   
 Bo Pan, Zheng Zhang, Yifei Zhang, Yuntong Hu, Liang Zhao  
