@@ -7,7 +7,7 @@ show_sidebar: true
 ---
 
 ### Biography
-I am currently pursuing my PhD in the [Department of Computer Science at Emory University](https://computerscience.emory.edu/), where I have the opportunity to be advised by [Dr. Liang Zhao](https://cs.emory.edu/~lzhao41/index.htm). Prior to this, I earned my Bachelor degree in Software Engineering from Tsinghua University in 2022. During my undergraduate studies, I worked at the Data Mining Group at [School of Software, Tsinghua University](https://www.thss.tsinghua.edu.cn/en/index.htm), supervised by [Dr. Chunping Li](https://www.thss.tsinghua.edu.cn/en/faculty/Chunping_LI.htm). 
+I am currently pursuing my PhD in the [Department of Computer Science at Emory University](https://computerscience.emory.edu/), where I have the opportunity to be advised by [Dr. Liang Zhao](https://cs.emory.edu/~lzhao41/index.htm). Prior to this, I earned my Bachelor degree in Software Engineering from [Tsinghua University](https://www.tsinghua.edu.cn/en/) in 2022. I worked at the Data Mining Group at [School of Software, Tsinghua University](https://www.thss.tsinghua.edu.cn/en/index.htm), supervised by [Dr. Chunping Li](https://www.thss.tsinghua.edu.cn/en/faculty/Chunping_LI.htm). In industry, I worked as an AI4Science research intern at [Merck](https://www.merck.com/) and Machine Learning Engineer Intern at [DiDi](https://web.didiglobal.com/). 
 
 My research interest mainly lies in Graph Learning, LLMs, Generative AI and AI4Science.
 
