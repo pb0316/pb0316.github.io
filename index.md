@@ -11,7 +11,7 @@ I am currently pursuing my PhD in the [Department of Computer Science at Emory U
 
 My research interest mainly lies in Graph Learning, LLMs, Generative AI and AI4Science.
 
-🗣️ I am actively seeking for **research intern / MLE intern position at 25Fall**. Let me know if you there are any opportunities!
+🗣️ I am actively seeking for **research intern / MLE intern position at 25 Summer**. Let me know if there are any opportunities!
 
 **[Email](mailto:bo.pan@emory.edu)   /   [Google Scholar](https://scholar.google.com/citations?user=UacLGeoAAAAJ)   /   [Linkedin](https://www.linkedin.com/in/bo-pan/)**  
 
