@@ -9,7 +9,9 @@ show_sidebar: true
 ### Biography
 I am currently pursuing my PhD in the Department of Computer Science at Emory University, under the advisory of [Dr. Liang Zhao](https://cs.emory.edu/~lzhao41/index.htm). Prior to this, I earned my Bachelor degree in Software Engineering from Tsinghua University in 2022. During my undergraduate studies, I had the opportunity to work at the Data Mining Group at School of Software, Tsinghua University, supervised by Dr. Chunping Li. 
 
-My research interest mainly lies in Graph Learning, LLMs, and Generative AI.
+My research interest mainly lies in Graph Learning, LLMs, Generative AI and AI4Science.
+
+🗣️ I am actively seeking for **research intern / MLE intern position at 25Fall**. Let me know if you there are any opportunities!
 
 **[Email](mailto:bo.pan@emory.edu)   /   [Google Scholar](https://scholar.google.com/citations?user=UacLGeoAAAAJ)   /   [Linkedin](https://www.linkedin.com/in/bo-pan/)**  
 
@@ -52,7 +54,7 @@ arXiv preprint arXiv:2310.07683
 
 
 **SurroCBM: Concept Bottleneck Surrogate Models for Generative Post-hoc Explanation** [(**PDF**)](https://arxiv.org/pdf/2310.07698)  
-Bo Pan, Zhenke Liu, Yifei Zhang, Liang Zhao  
+**Bo Pan**, Zhenke Liu, Yifei Zhang, Liang Zhao  
 arXiv preprint arXiv:2310.07698  
 
 
