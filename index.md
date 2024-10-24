@@ -35,25 +35,25 @@ My research interest mainly lies in Graph Learning, LLMs, Generative AI and AI4S
 
 ### Selected Preprints
 
-**TAGExplainer: Narrating Graph Explanations for Text-Attributed Graph Learning Models** [(**PDF**)](https://arxiv.org/pdf/2410.15268)   
+[2024] **TAGExplainer: Narrating Graph Explanations for Text-Attributed Graph Learning Models** [(**PDF**)](https://arxiv.org/pdf/2410.15268)   
 **Bo Pan**, Zhen Xiong, Guanchen Wu, Zheng Zhang, Yifei Zhang, Liang Zhao  
 arXiv preprint arXiv:2410.15268
 
 
 
-**GRAG: Graph Retrieval-Augmented Generation** [(**PDF**)](https://arxiv.org/pdf/2405.16506)  
+[2024] **GRAG: Graph Retrieval-Augmented Generation** [(**PDF**)](https://arxiv.org/pdf/2405.16506)  
 Y Hu, Z Lei, Z Zhang, **B Pan**, C Ling, L Zhao  
 arXiv preprint arXiv:2405.16506  
 
 
 
-**Controllable Data Generation Via Iterative Data-Property Mutual Mappings** [(**PDF**)](https://arxiv.org/pdf/2310.07683.pdf)  
+[2023] **Controllable Data Generation Via Iterative Data-Property Mutual Mappings** [(**PDF**)](https://arxiv.org/pdf/2310.07683.pdf)  
 **Bo Pan**, Muran Qin, Shiyu Wang, Yifei Zhang, Liang Zhao  
 arXiv preprint arXiv:2310.07683  
 
 
 
-**SurroCBM: Concept Bottleneck Surrogate Models for Generative Post-hoc Explanation** [(**PDF**)](https://arxiv.org/pdf/2310.07698)  
+[2023] **SurroCBM: Concept Bottleneck Surrogate Models for Generative Post-hoc Explanation** [(**PDF**)](https://arxiv.org/pdf/2310.07698)  
 **Bo Pan**, Zhenke Liu, Yifei Zhang, Liang Zhao  
 arXiv preprint arXiv:2310.07698  
 
