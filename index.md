@@ -31,54 +31,74 @@ My research interest mainly lies in Graph Learning, LLMs, and Generative AI.
 
 [Jul 2023] I serve as a PC member for DLG-KDD 23.
 
-### Selected Publications & Preprints
+### Selected Preprints
 
-**TAGExplainer: Narrating Graph Explanations for Text-Attributed Graph Learning Models** [(**PDF**)](https://pb0316.github.io/blog/TAG_XAI_preprint.pdf)   
-Bo Pan, Zhen Xiong, Guanchen Wu, Zheng Zhang, Yifei Zhang, Liang Zhao  
-Preprint  
-
-
-
-**Distilling Large Language Models for Text-Attributed Graph Learning** [(**PDF**)](https://arxiv.org/pdf/2402.12022.pdf)   
-Bo Pan, Zheng Zhang, Yifei Zhang, Yuntong Hu, Liang Zhao  
-The 33rd ACM International Conference on Information and Knowledge Management (CIKM 2024)  
+**TAGExplainer: Narrating Graph Explanations for Text-Attributed Graph Learning Models** [(**PDF**)](https://arxiv.org/pdf/2410.15268)   
+**Bo Pan**, Zhen Xiong, Guanchen Wu, Zheng Zhang, Yifei Zhang, Liang Zhao  
+arXiv preprint arXiv:2410.15268
 
 
 
-**ELAD: Explanation-Guided Large Language Models Active Distillation** 
-Yifei Zhang, Bo Pan, Chen Ling, Yuntong Hu, Liang Zhao  
-The 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024 Findings)  
-
-
-
-
-
-**Visual Attention-Prompted Prediction and Learning** [(**PDF**)](https://arxiv.org/pdf/2310.08420.pdf)   
-Yifei Zhang, Siyi Gu, Bo Pan, Guangji Bai, Xiaofeng Yang, Liang Zhao  
-The 33rd International Joint Conference on Artificial Intelligence (IJCAI 2024)  
-
-
+**GRAG: Graph Retrieval-Augmented Generation** [(**PDF**)](https://arxiv.org/pdf/2405.16506)  
+Y Hu, Z Lei, Z Zhang, **B Pan**, C Ling, L Zhao  
+arXiv preprint arXiv:2405.16506  
 
 
 
 **Controllable Data Generation Via Iterative Data-Property Mutual Mappings** [(**PDF**)](https://arxiv.org/pdf/2310.07683.pdf)  
-Bo Pan, Muran Qin, Shiyu Wang, Yifei Zhang, Liang Zhao  
+**Bo Pan**, Muran Qin, Shiyu Wang, Yifei Zhang, Liang Zhao  
 arXiv preprint arXiv:2310.07683  
 
 
 
+**SurroCBM: Concept Bottleneck Surrogate Models for Generative Post-hoc Explanation** [(**PDF**)](https://arxiv.org/pdf/2310.07698)  
+Bo Pan, Zhenke Liu, Yifei Zhang, Liang Zhao  
+arXiv preprint arXiv:2310.07698  
+
+
+
+
+
+### Selected Publications
+
+
+
+**Distilling Large Language Models for Text-Attributed Graph Learning** [(**PDF**)](https://arxiv.org/pdf/2402.12022.pdf)   
+**Bo Pan**, Zheng Zhang, Yifei Zhang, Yuntong Hu, Liang Zhao  
+The 33rd ACM International Conference on Information and Knowledge Management (CIKM 2024)  
+
+
+
+**ELAD: Explanation-Guided Large Language Models Active Distillation** [(**PDF**)](https://arxiv.org/pdf/2402.12022.pdf)   
+Yifei Zhang, **Bo Pan**, Chen Ling, Yuntong Hu, Liang Zhao  
+The 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024 Findings)  
+
+
+
+**Visual Attention-Prompted Prediction and Learning** [(**PDF**)](https://arxiv.org/pdf/2310.08420.pdf)   
+Yifei Zhang, **Bo Pan**, Siyi Gu, Guangji Bai, Xiaofeng Yang, Liang Zhao  
+The 33rd International Joint Conference on Artificial Intelligence (IJCAI 2024)  
+
+
+
 **MAGI: Multi-Annotated Explanation-Guided Learning**  
-Yifei Zhang, Siyi Gu, Yuyang Gao, Bo Pan, Xiaofeng Yang, Liang Zhao  
+Yifei Zhang, Siyi Gu, Yuyang Gao, **Bo Pan**, Xiaofeng Yang, Liang Zhao  
 Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV 2023)  
 
 
 
 **Controllable Data Generation by Deep Learning: A Review** [(**PDF**)](https://arxiv.org/pdf/2207.09542.pdf)  
-Shiyu Wang\*, Yuanqi Du\*, Xiaojie Guo, Bo Pan, Liang Zhao   
+Shiyu Wang, Yuanqi Du, Xiaojie Guo, **Bo Pan**, Liang Zhao   
 ACM Computing Surveys (CSUR)   
 
 
 
+**Property-controllable generation of quaternary ammonium compounds** [(**PDF**)](https://www.researchgate.net/profile/Shiyu-Wang-62/publication/366831501_Property-Controllable_Generation_of_Quaternary_Ammonium_Compounds/links/6411f5ee315dfb4cce80d8e2/Property-Controllable-Generation-of-Quaternary-Ammonium-Compounds.pdf)   
+**Bo Pan**, Yinkai Wang, Xuanyang Lin, Muran Qin, Yuanqi Du, Shiva Ghaemi, Aowei Ding, Shiyu Wang, Saleh Alkhalifa, Kevin Minbiole, William M Wuest, Ashley Petersen, Austin Leitgeb, Amarda Shehu, Liang Zhao  
+2022 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)   
+
+
+
 **Multi-objective Deep Data Generation with Correlated Property Control.** [(**PDF**)](https://arxiv.org/pdf/2210.01796.pdf)   
-Shiyu Wang, Xiaojie Guo, Xuanyang Lin, Bo Pan, Yuanqi Du, Yinkai Wang, Yanfang Ye, Ashley Ann Petersen, Austin Leitgeb, Saleh AlKhalifa, Kevin Minbiole, Bill Wuest, Amarda Shehu, Liang Zhao.  
+Shiyu Wang, Xiaojie Guo, Xuanyang Lin, **Bo Pan**, Yuanqi Du, Yinkai Wang, Yanfang Ye, Ashley Ann Petersen, Austin Leitgeb, Saleh AlKhalifa, Kevin Minbiole, Bill Wuest, Amarda Shehu, Liang Zhao.  
 The Thirty-Sixth Annual Conference on Neural Information Processing Systems (NeurIPS 2022)   
