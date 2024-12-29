@@ -11,11 +11,11 @@ I am currently pursuing my PhD in the [Department of Computer Science at Emory U
 
 My research interest mainly lies in Graph Learning, LLMs, Generative AI and AI4Science.
 
-🗣️ I am actively seeking for **research intern / MLE intern position at 25 Summer**. Let me know if there are any opportunities!
-
 **[Email](mailto:bo.pan@emory.edu)   /   [Google Scholar](https://scholar.google.com/citations?user=UacLGeoAAAAJ)   /   [Linkedin](https://www.linkedin.com/in/bo-pan/)**  
 
 ### News
+
+[Nov 2024] I passed my qualification exam! Many thanks to Dr. Andreas Züfle, Dr. Liang Zhao and Dr. Wei jin for serving my qualification exam committee. <br>
 
 [Aug 2024] Our work on explaining Text-Attributed Graph learning models is available! Find it at [Preprint](https://pb0316.github.io/blog/TAG_XAI_preprint.pdf) <br>
 
@@ -44,20 +44,6 @@ arXiv preprint arXiv:2410.15268
 [2024] **GRAG: Graph Retrieval-Augmented Generation** [(**PDF**)](https://arxiv.org/pdf/2405.16506)  
 Y Hu, Z Lei, Z Zhang, **B Pan**, C Ling, L Zhao  
 arXiv preprint arXiv:2405.16506  
-
-
-
-[2023] **Controllable Data Generation Via Iterative Data-Property Mutual Mappings** [(**PDF**)](https://arxiv.org/pdf/2310.07683.pdf)  
-**Bo Pan**, Muran Qin, Shiyu Wang, Yifei Zhang, Liang Zhao  
-arXiv preprint arXiv:2310.07683  
-
-
-
-[2023] **SurroCBM: Concept Bottleneck Surrogate Models for Generative Post-hoc Explanation** [(**PDF**)](https://arxiv.org/pdf/2310.07698)  
-**Bo Pan**, Zhenke Liu, Yifei Zhang, Liang Zhao  
-arXiv preprint arXiv:2310.07698  
-
-
 
 
 
