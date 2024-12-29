@@ -15,7 +15,7 @@ My research interest mainly lies in Graph Learning, LLMs, Generative AI and AI4S
 
 ### News
 
-[Nov 2024] I passed my qualification exam! Many thanks to Dr. Andreas Züfle, Dr. Liang Zhao and Dr. Wei jin for serving my qualification exam committee. <br>
+[Nov 2024] I passed my qualification exam! Many thanks to Dr. Andreas Züfle (Committee Chair), Dr. Liang Zhao and Dr. Wei jin for serving my qualification exam committee. <br>
 
 [Aug 2024] Our work on explaining Text-Attributed Graph learning models is available! Find it at [Preprint](https://pb0316.github.io/blog/TAG_XAI_preprint.pdf) <br>
 
