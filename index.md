@@ -7,7 +7,7 @@ show_sidebar: true
 ---
 
 ### Biography
-I am currently pursuing my PhD in the [Department of Computer Science at Emory University](https://computerscience.emory.edu/), where I am fortunated to be advised by [Dr. Liang Zhao](https://cs.emory.edu/~lzhao41/index.htm). Prior to this, I earned my Bachelor degree in Software Engineering from [Tsinghua University](https://www.tsinghua.edu.cn/en/) in 2022. I worked at the Data Mining Group at [School of Software, Tsinghua University](https://www.thss.tsinghua.edu.cn/en/index.htm), supervised by [Dr. Chunping Li](https://www.thss.tsinghua.edu.cn/en/faculty/Chunping_LI.htm). In industry, I worked as an AI4Science research intern at [Merck](https://www.merck.com/) in 2024 and Machine Learning Engineer Intern at [DiDi](https://web.didiglobal.com/) in 2021. 
+I am currently pursuing my PhD in the [Department of Computer Science at Emory University](https://computerscience.emory.edu/), where I am fortunated to be advised by [Dr. Liang Zhao](https://cs.emory.edu/~lzhao41/index.htm). Prior to this, I earned my Bachelor degree in Software Engineering from [Tsinghua University](https://www.tsinghua.edu.cn/en/) in 2022. I worked as a undergrad RA at [Dr. Chunping Li](https://www.thss.tsinghua.edu.cn/en/faculty/Chunping_LI.htm)'s lab. In industry, I worked as an AI4Science research intern at [Merck](https://www.merck.com/) in 2024 and Machine Learning Engineer Intern at [DiDi](https://web.didiglobal.com/) in 2021. 
 
 My research interest mainly lies in Graph Learning, LLMs, Generative AI and AI4Science.
 
@@ -33,7 +33,7 @@ My research interest mainly lies in Graph Learning, LLMs, Generative AI and AI4S
 
 [Jul 2023] I serve as a PC member for DLG-KDD 23.
 
-### Selected Preprints
+### Selected Preprint(s)
 
 [2024] **TAGExplainer: Narrating Graph Explanations for Text-Attributed Graph Learning Models** [(**PDF**)](https://arxiv.org/pdf/2410.15268)   
 **Bo Pan**, Zhen Xiong, Guanchen Wu, Zheng Zhang, Yifei Zhang, Liang Zhao  
