@@ -7,19 +7,17 @@ show_sidebar: true
 ---
 
 ### Biography
-I am currently pursuing my PhD in the [Department of Computer Science at Emory University](https://computerscience.emory.edu/), where I am fortunated to be advised by [Dr. Liang Zhao](https://cs.emory.edu/~lzhao41/index.htm). Prior to this, I earned my Bachelor degree in Software Engineering from [Tsinghua University](https://www.tsinghua.edu.cn/en/) in 2022. I worked as a undergrad RA at [Dr. Chunping Li](https://www.thss.tsinghua.edu.cn/en/faculty/Chunping_LI.htm)'s lab. In industry, I worked as an AI4Science research intern at [Merck](https://www.merck.com/) in 2024 and Machine Learning Engineer Intern at [DiDi](https://web.didiglobal.com/) in 2021. 
+I am a third-year PhD student at the [Department of Computer Science at Emory University](https://computerscience.emory.edu/), where I am fortunated to be advised by [Dr. Liang Zhao](https://cs.emory.edu/~lzhao41/index.htm). Prior to this, I earned my Bachelor degree in Software Engineering from [Tsinghua University](https://www.tsinghua.edu.cn/en/) in 2022. I worked as a undergrad RA at [Dr. Chunping Li](https://www.thss.tsinghua.edu.cn/en/faculty/Chunping_LI.htm)'s lab in 2020-2022. In industry, I worked as an AI4Science research intern at [Merck](https://www.merck.com/) in 2024 and Machine Learning Engineer Intern at [DiDi](https://web.didiglobal.com/) in 2021. 
 
-My research interest mainly lies in Graph Learning, LLMs, Generative AI and AI4Science.
+My research interest mainly lies in Graph Machine Learning, LLM Reasoning, and AI4Science.
 
 **[Email](mailto:bo.pan@emory.edu)   /   [Google Scholar](https://scholar.google.com/citations?user=UacLGeoAAAAJ)   /   [Linkedin](https://www.linkedin.com/in/bo-pan/)**  
 
-### News
+### Recent News
 
 [Nov 2024] I passed my qualification exam! Many thanks to Dr. Andreas Züfle, Dr. Liang Zhao and Dr. Wei jin for serving my qualification exam committee. <br>
 
 [Aug 2024] Our work on explaining Text-Attributed Graph learning models is available! Find it at [Preprint](https://pb0316.github.io/blog/TAG_XAI_preprint.pdf) <br>
-
-[Aug 2024] I just finished my summer intern journey at Merck Research Laboratories. Many thanks to my fantastic mentors Dr. Peter Zhang and Dr. Kevin Spiekermann! <br>
 
 [Jul 2024] Our paper Distilling Large Language Models for Text-Attributed Graph Learning is accepted by CIKM'24!<br>
 
@@ -27,11 +25,7 @@ My research interest mainly lies in Graph Learning, LLMs, Generative AI and AI4S
 
 [May 2024] One co-author paper accepted to ACL 2024 Findings.
 
-[Nov 2023] I serve as a reviewer for CVPR 2024.<br>
-
 [Oct 2023] I serve as a co-organizer for [LLMs4Bio workshop](https://llms4science-community.github.io/aaai2024.html) at AAAI 2024.<br>
-
-[Jul 2023] I serve as a PC member for DLG-KDD 23.
 
 ### Selected Preprint(s)
 
