@@ -1,0 +1,64 @@
+primary_name: "Bo Pan"
+secondary_name: "潘嶓"
+navbar_name: "Bo Pan"
+
+positions:
+# - logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
+#   name: Position 1 with logo
+- name: PhD Candidate @ Emory Computer Science
+
+
+email: "bo.pan@emory.edu"
+# cv_link: link-to-your-cv-file
+gscholar: UacLGeoAAAAJ  # This is an example, replace it with your own Google Scholar ID
+# github: your_github_id
+# twitter: your_twitter_id  # Do not include the '@' symbol
+# wechat_qrcode: /assets/images/etc/wechat.jpg
+# wechat_prompt: >-
+  # Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
+linkedin: bo-pan
+# orcid: 0000-0000-0000-0000
+
+short_bio_text_justify: false
+short_bio: >-
+  <p>
+    I am a third-year PhD student at the <a href="https://computerscience.emory.edu/" target="_blank">Department of Computer Science at Emory University</a>, where I am fortunate to be advised by <a href="https://cs.emory.edu/~lzhao41/index.htm" target="_blank">Dr. Liang Zhao</a>. 
+    <br><br>
+    My research interest mainly lies in <b>Graph Machine Learning</b>, <b>LLM Reasoning</b>, and <b>AI4Science</B>.
+  </p>
+
+portrait_url: /assets/images/self.jpg
+portrait_caption: >-
+  Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
+
+education:
+- name: Emory University
+  logo: /assets/images/badges/emory.png
+  position: >- 
+    Ph.D. in Computer Science
+  date: 2022 - Present
+- name: Tsinghua University
+  logo: /assets/images/badges/THU.png
+  position: B.S. in Software Engineering
+  date: 2018 - 2022
+
+experience:
+- name: Meta
+  logo: /assets/images/badges/meta.png
+  position: PhD SWE Intern, Machine Learning
+  date: Summer 2025
+  location: Menlo Park, CA
+- name: Merck
+  logo: /assets/images/badges/Merck.png
+  position: AI for Science Research Intern
+  date: Summer 2024
+  location: Cambridge, MA
+- name: DiDi
+  logo: /assets/images/badges/didi.svg
+  position: Machine Learning Engineer Intern
+  date: Jun 2021 - Dec 2021
+  location: Beijing
+# awards:
+# - name: Co-organizer&#58 LLMs4Bio workshop @ AAAI 2024
+# - name: Reviewer&#58 KDD, ICLR, CVPR, ICCV, ACL Rolling Review, ICML, CIKM, ICASSP
+

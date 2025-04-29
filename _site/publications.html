@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>Bo Pan's Homepage - Bo Pan</title>
+    <title>Publications - Bo Pan</title>
 
     <!-- Stylesheets -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.6.0/css/bootstrap.min.css" integrity="sha512-P5MgMn1jBN01asBgU0z60Qk4QxiXo86+wlFahKrsQf37c9cro517WzVSPPV1tDKzhku2iJ2FVgL67wG03SGnNA==" crossorigin="anonymous" />
@@ -16,7 +16,7 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css" integrity="sha384-nB0miv6/jRmo5UMMR1wu3Gz6NLsoTkbqJghGIsx//Rlm+ZU03BU6SQNC66uf4l5+" crossorigin="anonymous">
     <link rel="stylesheet" href="/academic-homepage/assets/css/global.css">
 </head>
-<body class="bg-light" >
+<body class="bg-light" data-spy="scroll" data-target="#navbar-year" data-offset="100">
     <nav class="navbar navbar-expand-sm navbar-light bg-light fixed-top mb-5 shadow-sm">
     <div class="container-lg">
         <a class="navbar-brand"><strong>Bo Pan</strong></a>
@@ -27,11 +27,11 @@
         <div class="collapse navbar-collapse" id="navbarResponsive">
             <ul class="navbar-nav ml-auto">
                 
-                <li class="nav-item active">
+                <li class="nav-item ">
                     <a class="nav-link" href="/academic-homepage/">Home</a>
                 </li>
                 
-                <li class="nav-item ">
+                <li class="nav-item active">
                     <a class="nav-link" href="/academic-homepage/publications">Publications</a>
                 </li>
                 
@@ -41,332 +41,18 @@
 </nav>
 
     <div class="container-lg">
-        <div class="row">
-    <div class="col">
-        <div class="card border-0 shadow-sm bg-white">
-            <div class="card-body p-5">
-                <div class="row">
-                    <div class="col">
-                        
-                        <!-- When the screen is wider than md, float the portrait on the right -->
-                        <div class="figure float-right ml-4 mb-4 d-none d-md-block">
-                            <img 
-                                src="/academic-homepage/assets/images/self.jpg" 
-                                class="figure-img img-fluid img-thumbnail" 
-                                style="height: 200px;"
-                                data-toggle="tooltip" 
-                                data-placement="top" 
-                                title="Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).">
-                        </div>
-                        
-
-                        <div class="d-flex">
-                            <div class="h1 font-weight-normal">
-                                Bo Pan <small>潘嶓</small>
-                            </div>
-                            
-                            <div class="ml-auto d-md-none">
-                                <a target="_blank" href="/academic-homepage/assets/images/self.jpg">
-                                    <img src="/academic-homepage/assets/images/self.jpg" class="rounded-circle" style="height: 48px;" alt="Portrait">
-                                </a>
-                            </div>
-                            
-                        </div>
-                        <div class="text-profile-position">
-                            
-                            
-                            PhD Candidate @ Emory Computer Science<br/>
-                            
-                        </div>
-                        <div class="text-profile-bio mt-3" >
-                            <p>
-  I am a third-year PhD student at the <a href="https://computerscience.emory.edu/" target="_blank">Department of Computer Science at Emory University</a>, where I am fortunate to be advised by <a href="https://cs.emory.edu/~lzhao41/index.htm" target="_blank">Dr. Liang Zhao</a>. 
-  <br><br>
-  My research interest mainly lies in <b>Graph Machine Learning</b>, <b>LLM Reasoning</b>, and <b>AI4Science</B>.
-</p>
-                        </div>
-                        
-                    </div>
         
-                </div>
-                <hr />
-                <div class="row">
-                    <div class="col">
-                        <a class="pr-3 no-break" href="mailto:%62%6F.%70%61%6E@%65%6D%6F%72%79.%65%64%75">
-                            <i class="fas fa-at"></i> <span class="email-text">bo.pan(at)emory.edu</span>
-                        </a>
 
-                        <a class="pr-3 no-break" target="_blank" href="https://scholar.google.com/citations?user=UacLGeoAAAAJ">
-                            <i class="fab fa-google-scholar"></i> Google Scholar
-                        </a>
-                        
-                        
-                        
-
-                        
-
-                        
-
-                        
-                        <a class="pr-3 no-break" target="_blank" href="https://www.linkedin.com/in/bo-pan">
-                            <i class="fab fa-linkedin"></i> LinkedIn
-                        </a>
-                        
-
-                        
-                    </div>
-                </div>
-            </div>
-        </div>        
-    </div>
-</div>
-
-
-
-
-<div id="ghpages-domain-debug-message" class="row mt-3 d-none">
-    <div class="col">
-        <div class="alert alert-warning my-0" role="alert">
-            <h5><i class="fas fa-exclamation-triangle"></i> Warning</h5>
-            <strong>Problem:</strong>
-            The current name of your GitHub Pages repository ("<code class="repo-name-text"></code>") does not match the recommended repository name for your site ("<code class="domain-name-text"></code>").
-            <br>
-            <strong>Solution:</strong> Please consider renaming the repository to "<code class="domain-name-text"></code>", so that your site can be accessed directly at "<code>http://<span class="domain-name-text"></span></code>".
-            However, if the current repository name is intended, you can ignore this message by removing "<code>{% include widgets/debug_repo_name.html %}</code>" in <code>index.html</code>.
-        </div>
-    </div>
-</div>
-
-<script>
-striped_pathname = location.pathname.replace(/\/+$/, "");
-document.querySelectorAll(".repo-name-text").forEach(function(element){
-    element.textContent = striped_pathname.replace("/", "");
-});
-document.querySelectorAll(".domain-name-text").forEach(function(element){
-    element.textContent = location.hostname;
-});
-
-if (location.hostname.search("github.io") != -1 && striped_pathname != ""){
-    document.getElementById("ghpages-domain-debug-message").classList.remove('d-none');
-}
-</script>
-
-
-<div id="url-debug-message" class="row mt-3 d-none">
-    <div class="col">
-        <div class="alert alert-warning my-0" role="alert">
-            <h5><i class="fas fa-exclamation-triangle"></i> Action required</h5>
-            <strong>Problem:</strong>
-            The current root path of this site is "<code class="root-path-text"></code>",
-            which does not match the <code>baseurl</code> ("<code>/academic-homepage</code>") configured in <code>_config.yml</code>.
-            <br>
-
-            <strong>Solution:</strong>
-            Please set the <code>baseurl</code> in <code>_config.yml</code> to "<code class="root-path-text"></code>".
-        </div>
-    </div>
-</div>
-
-<script>
-striped_pathname = location.pathname.replace(/\/+$/, "");
-if(striped_pathname != "/academic-homepage"){
-    document.getElementById("url-debug-message").classList.remove('d-none');
-}
-document.querySelectorAll(".root-path-text").forEach(function(element){
-    element.textContent = striped_pathname;
-});
-</script>
-
-
-
-    <div class="row mt-3">
-    <div class="col">
-        <div class="card border-0 shadow-sm bg-white">
-            <div class="card-body p-4">
-                <div class="row" data-masonry='{"percentPosition": true }'>
-                    
-                    <div class="col-md-6">
-                        <div class="mx-2 my-1">
-                            <h6>Education</h6>
-                            <ul class="list-unstyled mb-1">
-                                
-                                <li class="media mb-1">
-                                    <img src="/academic-homepage/assets/images/badges/emory.png" alt="Emory University" style="width: 25px; margin-right: 3px;" class="mr-1 mt-1">
-                                    <div class="media-body">
-                                        <div class="d-flex align-items-center">
-                                            <div>&nbsp;&nbsp;Emory University</div>
-                                            
-                                        </div>
-                                        <div class="small"></div>
-                                        <div class="small d-flex">
-                                            <div>&nbsp;&nbsp;Ph.D. in Computer Science</div>
-                                            <div class="mt-auto ml-auto no-break"><em>2022 - Present</em></div>
-                                        </div>
-                                    </div>
-                                </li>
-                                
-                                <li class="media mb-1">
-                                    <img src="/academic-homepage/assets/images/badges/THU.png" alt="Tsinghua University" style="width: 25px; margin-right: 3px;" class="mr-1 mt-1">
-                                    <div class="media-body">
-                                        <div class="d-flex align-items-center">
-                                            <div>&nbsp;&nbsp;Tsinghua University</div>
-                                            
-                                        </div>
-                                        <div class="small"></div>
-                                        <div class="small d-flex">
-                                            <div>&nbsp;&nbsp;B.S. in Software Engineering</div>
-                                            <div class="mt-auto ml-auto no-break"><em>2018 - 2022</em></div>
-                                        </div>
-                                    </div>
-                                </li>
-                                
-                            </ul>
-                        </div>
-                    </div>
-                    
-
-                    
-                    <div class="col-md-6">
-                        <div class="mx-2 my-1">
-                            <h6>Industry Experience</h6>
-                            <ul class="list-unstyled mb-1">
-                                
-                                <li class="media mb-1">
-                                    <img src="/academic-homepage/assets/images/badges/meta.png" alt="Meta" style="width:25px; margin-right: 3px;" class="mr-1 mt-1">
-                                    <div class="media-body">
-                                        <div class="d-flex align-items-center">
-                                            <div>&nbsp;&nbsp;Meta</div>
-                                            
-                                            <div class="small text-muted ml-2">Menlo Park, CA</div>
-                                            
-                                        </div>
-                                        <div class="small"></div>
-                                        <div class="small d-flex">
-                                            <div>&nbsp;&nbsp;PhD SWE Intern, Machine Learning</div>
-                                            <div class="mt-auto ml-auto no-break"><em>Summer 2025</em></div>
-                                        </div>
-                                    </div>
-                                </li>
-                                
-                                <li class="media mb-1">
-                                    <img src="/academic-homepage/assets/images/badges/Merck.png" alt="Merck" style="width:25px; margin-right: 3px;" class="mr-1 mt-1">
-                                    <div class="media-body">
-                                        <div class="d-flex align-items-center">
-                                            <div>&nbsp;&nbsp;Merck</div>
-                                            
-                                            <div class="small text-muted ml-2">Cambridge, MA</div>
-                                            
-                                        </div>
-                                        <div class="small"></div>
-                                        <div class="small d-flex">
-                                            <div>&nbsp;&nbsp;AI for Science Research Intern</div>
-                                            <div class="mt-auto ml-auto no-break"><em>Summer 2024</em></div>
-                                        </div>
-                                    </div>
-                                </li>
-                                
-                                <li class="media mb-1">
-                                    <img src="/academic-homepage/assets/images/badges/didi.svg" alt="DiDi" style="width:25px; margin-right: 3px;" class="mr-1 mt-1">
-                                    <div class="media-body">
-                                        <div class="d-flex align-items-center">
-                                            <div>&nbsp;&nbsp;DiDi</div>
-                                            
-                                            <div class="small text-muted ml-2">Beijing</div>
-                                            
-                                        </div>
-                                        <div class="small"></div>
-                                        <div class="small d-flex">
-                                            <div>&nbsp;&nbsp;Machine Learning Engineer Intern</div>
-                                            <div class="mt-auto ml-auto no-break"><em>Jun 2021 - Dec 2021</em></div>
-                                        </div>
-                                    </div>
-                                </li>
-                                
-                            </ul>
-                        </div>
-                    </div>
-                    
-
-                    
-
-                </div>
-
-            </div>
-        </div>
-    </div>
-</div>
-
-
-
-
-    
-    
-        <div class="my-3 bg-white shadow-sm rounded-sm">
-    <h6 class="p-3 mb-0 border-bottom border-gray"><i class="fas fa-rss"></i> News</h6>
-    <div class="px-3 pb-1">
+<div class="row">
+    <div class="col-12 col-lg-10">
         
-        <div class="media py-1 ">
+        
+        <h2 class="pt-4" id="year-2025">2025</h2>
+        <div class="my-0 p-0 bg-white shadow-sm rounded-sm">
             
-            <div class="mr-3 text-muted my-1">2024</div>
-            <div class="media-body">
                 
-                <div class="my-1 d-flex align-items-center">
-                    <div style="width: 60px;" class="text-muted no-break text-right pr-2">
-                        <i>Nov</i>
-                    </div>
-                    <div class="flex-grow-1">
-                        How to explain for GNNs with natural language? Our new paper TAGExplainer is released. <a href="https://arxiv.org/pdf/2410.15268" target="_blank">Read more <i class="fas fa-angle-double-right"></i></a>
-                    </div>
-                </div>
-                
-                <div class="my-1 d-flex align-items-center">
-                    <div style="width: 60px;" class="text-muted no-break text-right pr-2">
-                        <i>Oct</i>
-                    </div>
-                    <div class="flex-grow-1">
-                        I passed my PhD qualification exam. Thanks to my exam committee, Dr. Andreas Züfle, Dr. Liang Zhao, and Dr. Wei Jin.
-                    </div>
-                </div>
-                
-                <div class="my-1 d-flex align-items-center">
-                    <div style="width: 60px;" class="text-muted no-break text-right pr-2">
-                        <i>Jun</i>
-                    </div>
-                    <div class="flex-grow-1">
-                        Our paper Distilling Large Language Models for Text-Attributed Graph Learning is accepted by CIKM’24!
-                    </div>
-                </div>
-                
-                <div class="my-1 d-flex align-items-center">
-                    <div style="width: 60px;" class="text-muted no-break text-right pr-2">
-                        <i>Jan</i>
-                    </div>
-                    <div class="flex-grow-1">
-                        I serve as a co-organizer for LLMs4Bio workshop at AAAI 2024!
-                    </div>
-                </div>
-                
-            </div>
-        </div>
-        
-    </div>
-</div>
-
-    
-
-
-
-    
-    
-<div class="my-3 p-0 bg-white shadow-sm rounded-sm">
-    <h6 class="border-bottom border-gray p-3 mb-0">
-        <i class="fas fa-star"></i> Selected Publications 
-        <a href="/academic-homepage/publications">(view all <i class="fas fa-angle-double-right"></i>)</a>
-    </h6>
-    
-        
 <div class="d-none d-md-block">
-    <div class="row no-gutters border-bottom border-gray">
+    <div class="row no-gutters  border-gray">
         <!-- Image column removed -->
         <div class="col-md-11 col-xl-11 p-3 pl-md-3">
             <div class="d-flex align-items-center mb-1">
@@ -388,7 +74,7 @@ document.querySelectorAll(".root-path-text").forEach(function(element){
     </div>
 </div>
 
-<div class="row no-gutters d-md-none border-bottom border-gray   lazy" data-src="/academic-homepage/assets/images/covers/cover1.jpg">
+<div class="row no-gutters d-md-none  border-gray rounded-top rounded-bottom lazy" data-src="/academic-homepage/assets/images/covers/cover1.jpg">
     <div class="w-100" style="background-color: rgba(255,255,255,0.9);">
         <div class="d-flex align-items-start flex-column py-3 px-4">
             <div class="mb-auto"></div>
@@ -410,9 +96,15 @@ document.querySelectorAll(".root-path-text").forEach(function(element){
         </div>
     </div>
 </div>
-    
-    
+
+            
+        </div>
         
+        
+        <h2 class="pt-4" id="year-2024">2024</h2>
+        <div class="my-0 p-0 bg-white shadow-sm rounded-sm">
+            
+                
 <div class="d-none d-md-block">
     <div class="row no-gutters border-bottom border-gray">
         <!-- Image column removed -->
@@ -436,7 +128,7 @@ document.querySelectorAll(".root-path-text").forEach(function(element){
     </div>
 </div>
 
-<div class="row no-gutters d-md-none border-bottom border-gray   lazy" data-src="/academic-homepage/assets/images/covers/cover1.jpg">
+<div class="row no-gutters d-md-none border-bottom border-gray rounded-top  lazy" data-src="/academic-homepage/assets/images/covers/cover1.jpg">
     <div class="w-100" style="background-color: rgba(255,255,255,0.9);">
         <div class="d-flex align-items-start flex-column py-3 px-4">
             <div class="mb-auto"></div>
@@ -458,9 +150,9 @@ document.querySelectorAll(".root-path-text").forEach(function(element){
         </div>
     </div>
 </div>
-    
-    
-        
+
+            
+                
 <div class="d-none d-md-block">
     <div class="row no-gutters border-bottom border-gray">
         <!-- Image column removed -->
@@ -506,11 +198,11 @@ document.querySelectorAll(".root-path-text").forEach(function(element){
         </div>
     </div>
 </div>
-    
-    
-        
+
+            
+                
 <div class="d-none d-md-block">
-    <div class="row no-gutters border-bottom border-gray">
+    <div class="row no-gutters  border-gray">
         <!-- Image column removed -->
         <div class="col-md-11 col-xl-11 p-3 pl-md-3">
             <div class="d-flex align-items-center mb-1">
@@ -532,7 +224,7 @@ document.querySelectorAll(".root-path-text").forEach(function(element){
     </div>
 </div>
 
-<div class="row no-gutters d-md-none border-bottom border-gray   lazy" data-src="/academic-homepage/assets/images/covers/cover1.jpg">
+<div class="row no-gutters d-md-none  border-gray  rounded-bottom lazy" data-src="/academic-homepage/assets/images/covers/cover1.jpg">
     <div class="w-100" style="background-color: rgba(255,255,255,0.9);">
         <div class="d-flex align-items-start flex-column py-3 px-4">
             <div class="mb-auto"></div>
@@ -554,9 +246,15 @@ document.querySelectorAll(".root-path-text").forEach(function(element){
         </div>
     </div>
 </div>
-    
-    
+
+            
+        </div>
         
+        
+        <h2 class="pt-4" id="year-2023">2023</h2>
+        <div class="my-0 p-0 bg-white shadow-sm rounded-sm">
+            
+                
 <div class="d-none d-md-block">
     <div class="row no-gutters border-bottom border-gray">
         <!-- Image column removed -->
@@ -580,7 +278,7 @@ document.querySelectorAll(".root-path-text").forEach(function(element){
     </div>
 </div>
 
-<div class="row no-gutters d-md-none border-bottom border-gray   lazy" data-src="/academic-homepage/assets/images/covers/cover1.jpg">
+<div class="row no-gutters d-md-none border-bottom border-gray rounded-top  lazy" data-src="/academic-homepage/assets/images/covers/cover1.jpg">
     <div class="w-100" style="background-color: rgba(255,255,255,0.9);">
         <div class="d-flex align-items-start flex-column py-3 px-4">
             <div class="mb-auto"></div>
@@ -602,11 +300,11 @@ document.querySelectorAll(".root-path-text").forEach(function(element){
         </div>
     </div>
 </div>
-    
-    
-        
+
+            
+                
 <div class="d-none d-md-block">
-    <div class="row no-gutters border-bottom border-gray">
+    <div class="row no-gutters  border-gray">
         <!-- Image column removed -->
         <div class="col-md-11 col-xl-11 p-3 pl-md-3">
             <div class="d-flex align-items-center mb-1">
@@ -628,7 +326,7 @@ document.querySelectorAll(".root-path-text").forEach(function(element){
     </div>
 </div>
 
-<div class="row no-gutters d-md-none border-bottom border-gray   lazy" data-src="/academic-homepage/assets/images/covers/cover1.jpg">
+<div class="row no-gutters d-md-none  border-gray  rounded-bottom lazy" data-src="/academic-homepage/assets/images/covers/cover1.jpg">
     <div class="w-100" style="background-color: rgba(255,255,255,0.9);">
         <div class="d-flex align-items-start flex-column py-3 px-4">
             <div class="mb-auto"></div>
@@ -650,9 +348,15 @@ document.querySelectorAll(".root-path-text").forEach(function(element){
         </div>
     </div>
 </div>
-    
-    
+
+            
+        </div>
         
+        
+        <h2 class="pt-4" id="year-2022">2022</h2>
+        <div class="my-0 p-0 bg-white shadow-sm rounded-sm">
+            
+                
 <div class="d-none d-md-block">
     <div class="row no-gutters border-bottom border-gray">
         <!-- Image column removed -->
@@ -676,7 +380,7 @@ document.querySelectorAll(".root-path-text").forEach(function(element){
     </div>
 </div>
 
-<div class="row no-gutters d-md-none border-bottom border-gray   lazy" data-src="/academic-homepage/assets/images/covers/cover1.jpg">
+<div class="row no-gutters d-md-none border-bottom border-gray rounded-top  lazy" data-src="/academic-homepage/assets/images/covers/cover1.jpg">
     <div class="w-100" style="background-color: rgba(255,255,255,0.9);">
         <div class="d-flex align-items-start flex-column py-3 px-4">
             <div class="mb-auto"></div>
@@ -698,11 +402,11 @@ document.querySelectorAll(".root-path-text").forEach(function(element){
         </div>
     </div>
 </div>
-    
-    
-        
+
+            
+                
 <div class="d-none d-md-block">
-    <div class="row no-gutters border-bottom border-gray">
+    <div class="row no-gutters  border-gray">
         <!-- Image column removed -->
         <div class="col-md-11 col-xl-11 p-3 pl-md-3">
             <div class="d-flex align-items-center mb-1">
@@ -724,7 +428,7 @@ document.querySelectorAll(".root-path-text").forEach(function(element){
     </div>
 </div>
 
-<div class="row no-gutters d-md-none border-bottom border-gray   lazy" data-src="/academic-homepage/assets/images/covers/cover1.jpg">
+<div class="row no-gutters d-md-none  border-gray  rounded-bottom lazy" data-src="/academic-homepage/assets/images/covers/cover1.jpg">
     <div class="w-100" style="background-color: rgba(255,255,255,0.9);">
         <div class="d-flex align-items-start flex-column py-3 px-4">
             <div class="mb-auto"></div>
@@ -746,21 +450,27 @@ document.querySelectorAll(".root-path-text").forEach(function(element){
         </div>
     </div>
 </div>
-    
-    
-    <h6 class="d-block p-3 mt-0 text-right">
-        <a href="/academic-homepage/publications">All publications <i class="fas fa-angle-double-right"></i></a>
-    </h6>
-</div>
 
-
-
-<!-- <div class="container">
-    <div class="content is-small has-text-centered">
-        <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=080808&w=192&t=tt&d=QOxEFuO3leg496CgsNcvqhXnzkUXaKFx0DsFdKogEbQ&co=fafafa&cmo=3acc3a&cmn=ff5353&ct=808080"></script>
+            
+        </div>
+        
     </div>
-</div> -->
 
+    <div class="col-2 d-none d-lg-block">
+        <div id="navbar-year" class="nav nav-pills flex-column sticky-top" style="top: 80px">
+            
+            <a class="nav-link d-block" href="#year-2025">2025</a>
+            
+            <a class="nav-link d-block" href="#year-2024">2024</a>
+            
+            <a class="nav-link d-block" href="#year-2023">2023</a>
+            
+            <a class="nav-link d-block" href="#year-2022">2022</a>
+            
+        </div>
+    </div>
+
+</div>
 
     </div>
     <footer class="footer">

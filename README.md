@@ -1,65 +1,68 @@
-# bulma-clean-theme
+# academic-homepage
 
-[![Gem Version](https://badge.fury.io/rb/bulma-clean-theme.svg)](https://badge.fury.io/rb/bulma-clean-theme)
-![Gem](https://img.shields.io/gem/dt/bulma-clean-theme.svg)
+![Preview](assets/images/etc/preview.png)
 
-This is a clean and simple Jekyll Theme built with the [Bulma](https://bulma.io/) framework, providing a modern-looking site to start with. 
+[![pages-build-deployment](https://github.com/luost26/academic-homepage/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/luost26/academic-homepage/actions/workflows/pages/pages-build-deployment)
+[![W3C Validation](https://img.shields.io/w3c-validation/html?targetUrl=https%3A%2F%2Fluost26.github.io%2Facademic-homepage)](https://validator.nu/?doc=https%3A%2F%2Fluost26.github.io%2Facademic-homepage)
+<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fluost26%2Facademic-homepage&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
+[![GitHub stars](https://img.shields.io/github/stars/luost26/academic-homepage)](https://github.com/luost26/academic-homepage)
+[![GitHub forks](https://img.shields.io/github/forks/luost26/academic-homepage)](https://github.com/luost26/academic-homepage/forks)
 
-The theme uses [Alpine.js](https://github.com/alpinejs/alpine) for its interactive components, such as mobile navbar and notifications.
+A GitHub Pages (Jekyll) template for personal academic website. Click [here](https://luost.me/academic-homepage/) to see the demo.
 
-## Contents
+## User Community
 
-* [Installation](#installation)
-* [Documentation](#documentation)
-* [Contributing](#contributing)
-* [Development](#development)
-* [Licence](#licence)
+[🏡](https://luost.me/)
+[:star:](https://cch1999.github.io/)
+[:star:](https://kyrrego.github.io/)
+[:star:](https://ced3-han.github.io/)
+[:star:](https://lihengchen.com/)
+[:star:](https://hpwang-whu.github.io/)
+[:star:](https://zhang-yingyi.github.io/)
+[:star:](https://wby24.github.io/)
+[:star:](https://pengfeixu.com/)
+[:star:](https://boqiuphd.github.io/)
+[:star:](https://www.huabing.li/)
+[:star:](https://xiecuiying.github.io/)
+[:star:](https://hannyang.github.io/)
+[:star:](https://king-play.github.io/)
+[🤖](https://andrewcwlee.github.io)
+[:star:](https://laiyao1.github.io)
+[🌜](https://tmsultan.github.io)
 
 
-## Installation
+:hugs: Feel free to tell us if you are using this template for your website by creating an issue [here](https://github.com/luost26/academic-homepage/issues/new?assignees=&labels=&projects=&template=user-report.md&title=I+am+using+this+template%21).
 
-Add this line to your Jekyll site's `Gemfile`:
 
-```ruby
-gem "bulma-clean-theme"
-```
+## Need Help?
 
-And add this line to your Jekyll site's `_config.yml`:
+If you run into **any** issues while using this template, or have suggestions for improvements, please don't hesitate to create an issue [here](https://github.com/luost26/academic-homepage/issues/new).
 
-```yaml
-theme: bulma-clean-theme
-```
 
-If you are deploying to GitHub pages, then you can also install the [GitHub Pages gem](https://github.com/github/pages-gem) and use `remote_theme` instead of `theme` in your `_config.yml`. **Note that the GitHub Pages gem requires Jekyll version 3.9.**
+## Getting Started
 
-```yaml
-# With GitHub Pages Gem
-remote_theme: chrisrhymes/bulma-clean-theme
-```
+1. First, fork this repository or click the "Use this template" button to create a new repository. The name of the repository should be `<your-github-username>.github.io` (click [here](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#types-of-github-pages-sites) to learn more about naming a GitHub Pages repository).
+   - If you plan to customize the functionality or style of the template, and do not want to get updates from this repository, choose "Use this template".
+   - If you plan to only edit the content (biography, publications, news, etc.), and would like to get updates from this repository, choose "Fork".
+   - If you want to contribute to this project, fork the repository and submit a pull request.
 
-And then execute:
+### Running Locally (Debug & Preview)
 
-    $ bundle
+2. Follow the **step 1** and **step 2** of the instruction [here](https://jekyllrb.com/docs/) to install prerequisites and jekyll.
 
-Or install it yourself as:
+3. Clone your forked repository to your local machine.
 
-    $ gem install bulma-clean-theme
+4. Run the following command in the root directory of the repository:
 
-## Documentation
+   ```bash
+   bundle exec jekyll serve
+   ```
 
-Check out the demo site for the [Documentation](https://www.csrhymes.com/bulma-clean-theme/docs/)
+5. Browse to the displayed URL to see the website.
 
-## Contributing
+### Deploying to GitHub Pages
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/chrisrhymes/bulma-clean-theme. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+2. Go to the repository settings and enable GitHub Pages. Detailed instructions can be found [here](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site#creating-your-site).
 
-## Development
-
-To set up your environment to develop this theme, run `bundle install`.
-
-Your theme is set up just like a normal Jekyll site! To test your theme, run `bundle exec jekyll serve` and open your browser at `http://localhost:4000`. This starts a Jekyll server using your theme. Add pages, documents, data, etc. like normal to test your theme's contents. As you make modifications to your theme and to your content, your site will regenerate and you should see the changes in the browser after a refresh, just like normal.
-
-## License
-
-The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+3. Navigate to your created website, and follow the instructions displayed on the homepage (if any) to finalize the setup.
 
