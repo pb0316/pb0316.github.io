@@ -3,7 +3,7 @@ title:          "Generating Quaternary Ammonium Compound Structures via an Instr
 date:           2025-05-05 00:01:00 +0800
 selected:       true
 pub:            "KDD"
-pub_date:       "2025 Applied Data Science Track"
+pub_date:       "2025 (ADS Track)"
 cover:          /assets/images/covers/cover1.jpg
 authors:
 - Bo Pan, William Wuest, Kevin Minbiole, Liang Zhao, Amarda Shehu, et al.

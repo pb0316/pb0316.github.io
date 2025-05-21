@@ -3,7 +3,7 @@ title:          "Saliency-Bench: A Comprehensive Benchmark for Evaluating Visual
 date:           2025-05-05 00:01:00 +0800
 selected:       true
 pub:            "KDD"
-pub_date:       "2025 Datasets and Benchmarks Track"
+pub_date:       "2025 (Datasets and Benchmarks Track)"
 cover:          /assets/images/covers/cover1.jpg
 authors:
 - Yifei Zhang, James Song, Siyi Gu, Tianxu Jiang, Bo Pan, Guangji Bai, Liang Zhao
