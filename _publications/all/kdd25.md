@@ -3,7 +3,7 @@ title:          "An Instructible Chemist-AI Alignment Framework for Generating Q
 date:           2025-05-05 00:01:00 +0800
 selected:       true
 pub:            "KDD"
-pub_date:       "2025 (ADS Track)"
+pub_date:       "2025"
 cover:          /assets/images/covers/cover1.jpg
 authors:
 - Bo Pan, William Wuest, Kevin Minbiole, Liang Zhao, Amarda Shehu, et al.

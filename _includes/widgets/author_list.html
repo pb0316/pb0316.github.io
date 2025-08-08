@@ -25,7 +25,7 @@
         {%- assign name = key -%}
     {%- endif -%}
 
-    {%- if info['bold'] == true -%}
+    {%- if info['bold'] == true or name == 'Bo Pan' -%}
         {%- assign display_name = name | append: mark | prepend: "<strong>" | append: "</strong>" -%}
     {%- else -%}
         {%- assign display_name = name | append: mark -%}
