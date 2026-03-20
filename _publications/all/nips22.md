@@ -1,7 +1,7 @@
 ---
 title:          "Multi-objective Deep Data Generation with Correlated Property Control"
 date:           2022-01-05 00:01:00 +0800
-selected:       true
+selected:       false
 pub:            "NeurIPS"
 pub_date:       "2022"
 cover:          /assets/images/covers/cover1.jpg

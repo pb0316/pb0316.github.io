@@ -1,7 +1,7 @@
 ---
 title:          "Taga: Text-attributed graph self-supervised learning by synergizing graph and text mutual transformations"
 date:           2025-08-07 00:01:00 +0800
-selected:       true
+selected:       false
 pub:            "CIKM"
 pub_date:       "2025"
 cover:          /assets/images/covers/cover1.jpg

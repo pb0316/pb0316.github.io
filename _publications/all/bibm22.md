@@ -1,7 +1,7 @@
 ---
 title:          "Property-controllable generation of quaternary ammonium compounds"
 date:           2022-01-05 00:01:00 +0800
-selected:       true
+selected:       false
 pub:            "BIBM"
 pub_date:       "2022"
 cover:          /assets/images/covers/cover1.jpg

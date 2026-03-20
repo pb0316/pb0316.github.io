@@ -1,7 +1,7 @@
 ---
 title:          "ELAD: Explanation-Guided Large Language Models Active Distillation"
 date:           2024-01-05 00:01:00 +0800
-selected:       true
+selected:       false
 pub:            "ACL"
 pub_date:       "2024 Findings"
 cover:          /assets/images/covers/cover1.jpg
