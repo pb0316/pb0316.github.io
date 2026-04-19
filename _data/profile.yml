@@ -22,7 +22,7 @@ linkedin: bo-pan
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I am a third-year PhD student at the <a href="https://computerscience.emory.edu/" target="_blank">Department of Computer Science at Emory University</a>, where I am fortunate to be advised by <a href="https://cs.emory.edu/~lzhao41/index.htm" target="_blank">Dr. Liang Zhao</a>. 
+    I am a final-year PhD student at the <a href="https://computerscience.emory.edu/" target="_blank">Department of Computer Science at Emory University</a>, where I am fortunate to be advised by <a href="https://cs.emory.edu/~lzhao41/index.htm" target="_blank">Dr. Liang Zhao</a>. 
     <br><br>
     My research interest mainly lies in <b>Graph Machine Learning</b>, <b>LLM Reasoning</b>, and <b>AI4Science</B>.
   </p>
@@ -43,6 +43,11 @@ education:
   date: 2018 - 2022
 
 experience:
+- name: Microsoft
+  logo: /assets/images/badges/Microsoft_logo.svg.png
+  position: Research Intern
+  date: Mar 2026 - Jun 2026
+  location: Redmond, WA
 - name: Meta
   logo: /assets/images/badges/meta.png
   position: PhD SWE Intern, Machine Learning
