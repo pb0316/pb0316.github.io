@@ -1,6 +1,6 @@
 ---
 title:          "Can Past Experience Accelerate LLM Reasoning?"
-date:           2025-05-05 00:01:00 +0800
+date:           2026-05-05 00:01:00 +0800
 selected:       true
 pub:            "Preprint"
 pub_date:       "2025"
