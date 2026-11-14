@@ -4,6 +4,7 @@ date:           2025-05-05 00:01:00 +0800
 selected:       true
 pub:            "ACL"
 pub_date:       "2025"
+pub_track:      "Main"
 authors:
 - Bo Pan*, Zhen Xiong*, Guanchen Wu*, Zheng Zhang, Yifei Zhang, Yuntong Hu, Liang Zhao
 links:

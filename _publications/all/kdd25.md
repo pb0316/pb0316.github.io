@@ -4,6 +4,7 @@ date:           2025-05-05 00:01:00 +0800
 selected:       true
 pub:            "KDD"
 pub_date:       "2025"
+pub_track:      "Applied Data Science Track"
 authors:
 - Bo Pan, William Wuest, Kevin Minbiole, Liang Zhao, Amarda Shehu, et al.
 links:
