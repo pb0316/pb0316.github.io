@@ -2,9 +2,8 @@
 title:          "Can Past Experience Accelerate LLM Reasoning?"
 date:           2026-05-05 00:01:00 +0800
 selected:       true
-pub:            "Preprint"
-pub_date:       "2025"
-cover:          /assets/images/covers/cover1.jpg
+pub:            "EACL (Main)"
+pub_date:       "2026"
 authors:
 - Bo Pan, Liang Zhao
 links:

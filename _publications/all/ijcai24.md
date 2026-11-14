@@ -4,7 +4,6 @@ date:           2024-01-05 00:01:00 +0800
 selected:       false
 pub:            "IJCAI"
 pub_date:       "2024"
-cover:          /assets/images/covers/cover1.jpg
 authors:
 - Yifei Zhang, Bo Pan, Siyi Gu, Guangji Bai, Xiaofeng Yang, Liang Zhao
 links:

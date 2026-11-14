@@ -4,7 +4,6 @@ date:           2022-01-05 00:01:00 +0800
 selected:       false
 pub:            "BIBM"
 pub_date:       "2022"
-cover:          /assets/images/covers/cover1.jpg
 authors:
 - Bo Pan, Yinkai Wang, Xuanyang Lin, et al.
 links:

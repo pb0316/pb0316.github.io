@@ -4,7 +4,6 @@ date:           2026-01-30 00:01:00 +0800
 selected:       false
 pub:            "Preprint"
 pub_date:       "2026"
-cover:          /assets/images/covers/cover1.jpg
 authors:
 - Yifei Zhang, Bo Pan, Mengdan Zhu, Jian Pei, Liang Zhao
 links:

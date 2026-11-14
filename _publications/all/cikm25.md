@@ -4,7 +4,6 @@ date:           2025-08-07 00:01:00 +0800
 selected:       false
 pub:            "CIKM"
 pub_date:       "2025"
-cover:          /assets/images/covers/cover1.jpg
 authors:
 - Zheng Zhang, Yuntong Hu, Bo Pan, Chen Ling, Liang Zhao
 links:
